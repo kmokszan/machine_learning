@@ -1,2 +1,2 @@
 # machine_learning
-Machine learning tests
+some coding excercises and simple deep learning models I've gone through while learning deep learning solution coding.
